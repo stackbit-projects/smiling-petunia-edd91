@@ -91,8 +91,8 @@ footer:
       style: link
   content: >-
     &copy; 2021. All rights reserved. <a
-    href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
-    rel="noopener">Stackbit</a>. Create yours <a
+    href="https://chanzeit.comtackbit.com/?utm_source=deployed-footer"
+    target="_blank" rel="noopener">Stackbit</a>. Create yours <a
     href="https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer"
     target="_blank" rel="noopener">now</a>.
 sass:
