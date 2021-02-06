@@ -86,7 +86,7 @@ footer:
     - label: Terms of Service
       url: /terms-of-service
       style: link
-      new_window: true
+      new_window: false
     - label: Privacy Policy
       url: /privacy-policy
       style: link
