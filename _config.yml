@@ -89,7 +89,7 @@ footer:
     - label: Privacy Policy
       url: /privacy-policy
       style: link
-    - label: lorem-ipsum
+    - label: Cookie
       url: lorem-ipsum
       style: link
       has_icon: false
