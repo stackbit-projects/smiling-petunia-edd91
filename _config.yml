@@ -91,9 +91,7 @@ footer:
       style: link
   content: >-
     &copy; 2021. All rights reserved. <a
-    href="https://chanzeit.com">Chanzeit</a>. Create yours <a
-    href="https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer"
-    target="_blank" rel="noopener">now</a>.
+    href="https://chanzeit.com">Chanzeit</a>.
 sass:
   indentWidth: 4
   style: nested
