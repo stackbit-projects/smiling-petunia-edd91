@@ -90,7 +90,7 @@ footer:
       url: /privacy-policy
       style: link
     - label: Cookie Policy
-      url: lorem-ipsum
+      url: /terms-of-service
       style: link
       has_icon: false
       icon: arrow-left
