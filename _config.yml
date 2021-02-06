@@ -108,15 +108,6 @@ footer:
       new_window: false
       no_follow: false
       type: action
-    - label: lorem-ipsum
-      url: lorem-ipsum
-      style: link
-      has_icon: false
-      icon: arrow-left
-      icon_position: left
-      new_window: false
-      no_follow: false
-      type: action
   content: >-
     &copy; 2021. All rights reserved. <a
     href="https://chanzeit.com">Chanzeit</a>.
