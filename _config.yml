@@ -90,7 +90,7 @@ footer:
       url: /privacy-policy
       style: link
     - label: Cookie Policy
-      url: /terms-of-service
+      url: /cookie-policy
       style: link
       has_icon: false
       icon: arrow-left
